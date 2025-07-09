@@ -1,0 +1,8 @@
+{
+  "descricao": "Executa comandos recebidos com *EXECUTE* via BroadcastChannel",
+  "escuta_tipo": "*EXECUTE*",
+  "responde_com": "*FEEDBACK",
+  "auto_send": true,
+  "timeout_segundos": 60,
+  "log": true
+}
