@@ -1,0 +1,9 @@
+{
+  "descricao": "Escuta *COMUNICADOR* no chat, repassa para a aba destino via BroadcastChannel",
+  "escuta_tipo": "*COMUNICADOR*",
+  "responde_com": "ACK",
+  "valida_abas": true,
+  "log": true,
+  "monitor_respostas": true
+}
+
